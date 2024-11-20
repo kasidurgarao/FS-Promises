@@ -1,0 +1,1 @@
+fs is the Node.js file system module that provides methods for interacting with the file system, including creating directories and reading/writing files.
